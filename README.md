@@ -1,20 +1,38 @@
-# ExcelDataAnalysisBikeSales
-This Excel project focuses on analyzing bike sales data through effective data preparation and visualization techniques. The workflow includes:
+#  Bike Sales Analysis – Excel Project
 
-Data Cleaning: Removed inconsistencies, handled missing values, and formatted data for analysis.
+This Excel project presents a detailed analysis of bike sales data through a structured data workflow and interactive dashboard.
 
-Data Normalization: Standardized values to ensure consistency across the dataset.
+##  Project Overview
 
-Pivot Tables & Slicers: Created dynamic pivot tables and slicers to allow interactive data exploration.
+The objective of this project is to clean, normalize, and analyze bike sales data, then visualize key metrics using Excel features like Pivot Tables and Slicers.
 
-Dashboard Creation: Developed a user-friendly dashboard to visualize key insights, including:
+##  Key Steps Performed
 
-Average Income Per Gender
+- **Data Cleaning**  
+  Removed inconsistencies, handled missing values, and ensured proper formatting for accurate analysis.
 
-Customer Commute Distance Per Purchase
+- **Data Normalization**  
+  Standardized data entries to maintain consistency across fields.
 
-Bike Purchases by Customer Age
+- **Pivot Tables & Slicers**  
+  Created dynamic pivot tables and slicers to enable user-friendly data filtering and exploration.
 
-Bike Purchases by Gender and Country
+- **Dashboard Development**  
+  Designed an interactive dashboard to display the following insights:
+  -  **Average Income Per Gender**
+  -  **Customer Commute Distance Per Purchase**
+  -  **Bike Purchases by Customer Age**
+  -  **Bike Purchases by Gender and Country**
 
-This project demonstrates the use of Excel for transforming raw data into meaningful insights to support business decisions.
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Slicers
+- Conditional Formatting
+
+## Outcome
+
+The dashboard provides valuable insights into customer behavior and purchasing patterns, supporting data-driven decision-making for bike sales.
+
+---
