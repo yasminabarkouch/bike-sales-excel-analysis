@@ -35,4 +35,3 @@ The objective of this project is to clean, normalize, and analyze bike sales dat
 
 The dashboard provides valuable insights into customer behavior and purchasing patterns, supporting data-driven decision-making for bike sales.
 
----
