@@ -6,7 +6,7 @@ This is a self-driven data analysis project based on a bike sales dataset from K
 
 ##  Dataset Overview
 
-- **Source**: [Kaggle - Bike Buyers Dataset]((https://www.kaggle.com/datasets/heeraldedhia/bike-buyers?resource=download)) 
+- **Source**: [Kaggle - Bike Buyers Dataset](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers?resource=download) 
 - The dataset includes the following fields:
   - ID, Marital Status, Gender, Income, Children
   - Education, Occupation, Home Owner, Cars
