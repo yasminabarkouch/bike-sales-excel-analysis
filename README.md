@@ -6,7 +6,7 @@ This is a self-driven data analysis project based on a bike sales dataset from K
 
 ##  Dataset Overview
 
-- **Source**: [Kaggle - Bike Buyers Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers?resource=download)) 
+- **Source**: [Kaggle - Bike Buyers Dataset]((https://www.kaggle.com/datasets/heeraldedhia/bike-buyers?resource=download)) 
 - The dataset includes the following fields:
   - ID, Marital Status, Gender, Income, Children
   - Education, Occupation, Home Owner, Cars
@@ -47,7 +47,7 @@ An interactive Excel dashboard was built using:
 - PivotTables
 - Slicers to filter data dynamically
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)  
+![Dashboard Screenshot](Bike_Sales-Dashboard.png)  
 
 
 ---
