@@ -69,15 +69,8 @@ An interactive Excel dashboard was built using:
 
 ---
 
-##  Project Status
+## Author
 
- Completed  
- Excel file and visuals uploaded  
- Ready for portfolio and sharing
+Yasmina Barkouch — Data Analyst Enthusiast
 
----
-
-##  Let's Connect
-
-If you have feedback or similar projects to share, I’d love to connect!  
-📧 LinkedIn: www.linkedin.com/in/yasminabarkouch
+LinkedIn Profile :www.linkedin.com/in/yasminabarkouch
